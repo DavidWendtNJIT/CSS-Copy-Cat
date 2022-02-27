@@ -9,3 +9,8 @@ h1 {
 main {
   height: 700px;
 }
+
+a {
+  text-decoration: none;
+  color: white;
+}
